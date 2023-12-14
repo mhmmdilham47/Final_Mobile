@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.d121211101.quran"
+    namespace = "com.d121211047.doa"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.d121211101.quran"
+        applicationId = "com.d121211047.doa"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
